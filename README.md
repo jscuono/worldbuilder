@@ -1,7 +1,7 @@
 # worldbuilder
 **Worldbuilder Project in Java**\
 \
-*Controls:*\
+*Controls:*
 
 W - Move Up\
 A - Move Left\
@@ -15,4 +15,4 @@ Z - Reset Camera\
 Ctrl + Scroll Up - Zoom In\
 Ctrl + Scroll Down - Zoom Out\
 Left Click - Destroy Block\
-Right Click - Place Block\
+Right Click - Place Block
